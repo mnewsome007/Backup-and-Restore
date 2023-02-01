@@ -22,12 +22,11 @@ Backup and Restore is a way to protect your data from being lost or damaged. It 
 - <b>Amazon S3</b>
 - <b>Primary Region</b>
 - <b>Secondary Region</b>
-- <b>CloudFormation</b>
 - <b>Shell Scripting</b>
 
 <h2>Environments Used </h2>
 
-- <b>AWS Management Console</b> (21H2)
+- <b>AWS Management Console</b>
 
 <h2>Backup and Restore walk-through:</h2>
 
